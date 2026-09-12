@@ -18,7 +18,7 @@ AURA-Forensics is an edge-deployed, vendor-agnostic digital forensics station de
 * **Reporting:** FPDF2
 
 ### 🚀 Quick Start
-1. Clone the repository: `git clone https://github.com/yourusername/AURA-Forensics.git`
+1. Clone the repository: `git clone https://github.com/Anusha751/SIH26150-Nexora-AURA-Forensics.git`
 2. Navigate to the directory: `cd AURA-Forensics`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Create the required data directories:
